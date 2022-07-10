@@ -355,6 +355,9 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 .contact-link:focus {
   color: var(--accent-txt-cl);
 }
+.footer-item:not(:last-child){
+  margin-bottom: 9px;
+}
 /* portfolio */
 /* filter section */
 .filter-list{
