@@ -292,6 +292,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 /* Footer section */
 .footer {
   background-color: #2f303a;
+  
 }
 .footer-section{
   padding: 94px;
@@ -327,6 +328,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 .footer-link-current {
   color: var(--accent-txt-cl);
 }
+
 .footer-contact {
   font-weight: 400;
   font-size: 14px;
